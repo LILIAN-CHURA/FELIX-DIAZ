@@ -1,0 +1,15 @@
+    1  git config --global user.name LILIAN-CHURA
+    2  git config --global user.email lchuraq@unsa.edu.pe
+    3  git config --global --list
+    4  cd home/felix//examen01
+    5  cd /home/felix/examen01
+    6  cd felix/
+    7  cd examen01/
+    8  git init
+    9  git remote
+   10  git add .
+   11  git commit -m Subiendo examen01
+   12  git commit -m "Subiendo examen01"
+   13  git push -u
+   14  cd ..
+   15  history > FELIX
